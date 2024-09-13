@@ -3,11 +3,10 @@
 name="feel2code"
 job="Developer"
 langs=("English" "Russian")
-progs=("Python" "Shell")
-dbs=("ClickHouse" "Postgres" "Vertica" "MySQL" "IBM DB2" "MongoDB")
-os="Arch linux"
-tools=("i3" "Neovim")
+skills=("Python" "Shell" "ClickHouse" "DBT")
+os="GNU/Linux"
+tools=("vim")
 
-profile="Name: $name\nJob: $job\nLang: ${langs[*]}\nProg: ${progs[*]}\nDB: ${dbs[*]}\nOS: $os\nTools: ${tools[*]}"
+profile="Name: $name\nJob: $job\nLang: ${langs[*]}\nSkills: ${skills[*]}\nOS: $os\nTools: ${tools[*]}"
 echo -e "$profile"
 ```
