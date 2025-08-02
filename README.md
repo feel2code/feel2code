@@ -3,6 +3,7 @@
 ### 👤 Feliks N
 
 - 🧑🏽 Role: Data Engineer | Linux / Vim / tmux
+- 📧 Email: [feel2code@proton.me](mailto:feel2code@proton.me)
 
 ---
 
@@ -23,10 +24,3 @@
 - **[`telegram_chupakabrada_bot`](https://github.com/feel2code/telegram_chupakabrada_bot)** – Telegram bot with jokes, weather etc.
 - **[`jessiegram`](https://github.com/feel2code/jessiegram)** – Django app named in honor of my dog Jessie 🐶
 
----
-
-### 💬 Contact
-
-```bash
-curl -s https://raw.githubusercontent.com/feel2code/feel2code/main/README.md | less
-```
