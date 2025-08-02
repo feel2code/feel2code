@@ -3,7 +3,6 @@
 ### 👤 Feliks N
 
 - 🧑🏽 Role: Data Engineer | Linux / Vim / tmux
-- 📧 Email: [feel2code@proton.me](mailto:feel2code@proton.me)
 
 ---
 
@@ -30,5 +29,4 @@
 
 ```bash
 curl -s https://raw.githubusercontent.com/feel2code/feel2code/main/README.md | less
-echo "DM me on email: feel2code@proton.me"
 ```
